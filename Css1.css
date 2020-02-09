@@ -1,0 +1,32 @@
+
+
+#Examp {color: #1e90ff}
+
+
+div#Block {
+	
+	display: block;
+	height: 130px;
+	width: 200px;
+	border: 1px solid black;
+	overflow: auto;
+	
+	margin:10% auto;
+	
+}
+
+img { 
+	height: 30px;
+
+}
+
+div#Number {
+	height: 100px;
+	width: 200px;
+	margin: auto;
+}
+
+
+p#Text {
+	display: none;
+}
